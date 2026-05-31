@@ -5,7 +5,7 @@ function App() {
     <div className="page-shell">
       <header className="hero">
         <div className="hero-badge">React Розробник</div>
-        <h1>Олег Крутий</h1>
+        <h1>Олег Початок</h1>
         <p>Я створюю сучасні та швидкі веб-додатки на React. Крутий дизайн, якісний код та впевнене рішення задач.</p>
         <div className="hero-actions">
           <a href="#contact" className="btn btn-primary">Зв'язатися</a>
